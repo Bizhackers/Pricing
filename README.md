@@ -1,0 +1,2 @@
+# Pricing
+GitHub Pages
